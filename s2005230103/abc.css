@@ -1,0 +1,133 @@
+.wu{
+    border-bottom: 40px solid#ddd;
+    background-color: #e3e4e5;
+}
+div {
+    display: block;
+}
+ul{
+    list-style: none;
+}
+.s{
+    color: #999;
+    cursor: pointer;  
+    float: left;
+    margin-left: 80px;
+    margin-top: 10px;
+}
+.s:hover{
+    color: red;
+}
+.b{
+    color: red;
+    cursor: pointer;  
+    float: left;
+    margin-left: 50px;
+    margin-top: 10px;
+    border-right:1px solid #bbb;
+}
+
+.c{
+    color:#999;
+    cursor: pointer;  
+    float: left;
+    margin-left: 50px;
+    margin-top: 10px;
+    border-right:1px solid #bbb;
+}
+.c:hover{
+    color: red;
+}
+
+.dropdown-content
+{
+  background-color: white;
+  display:none;
+  position:absolute;
+  min-width:160px;
+  box-shadow:0px 0px 2px 0px rgba(0,0,0,0.2);
+  margin-left: 525px;
+  margin-top: -18px;
+}
+.dropbtn{
+    color:#999;
+    cursor: pointer;  
+    float: left;
+    margin-left: 550px;
+    margin-top: -46.5px;
+    border-right:1px solid #bbb;
+    text-decoration:none;
+}
+.dropbtn:hover{
+    color: red;
+}
+a:hover, .dropdown:hover, .dropbtn .dropdown-content {
+    background-color:white;
+}
+  
+.dropdown
+{
+  display:inline-block;
+}
+
+
+.dropdown-content  a
+{
+  
+  color:black;
+  padding:12px 16px;
+  text-decoration:none;
+  display:block;
+}
+
+.dropdown-content  a:hover {color: #ff0000}
+
+.dropdown:hover .dropdown-content {
+    display:block;
+}
+.d{
+    color:#999;
+    cursor: pointer;  
+    float: left;
+    margin-left: 150px;
+    margin-top: 10px;
+    border-right:1px solid #bbb;
+}
+.d:hover{
+    color: red;
+}
+.e{
+    color: red;
+    cursor: pointer;  
+    float: left;
+    margin-left: 50px;
+    margin-top: 10px;
+    border-right:1px solid #bbb;
+}
+.f{
+    color: #999;
+    cursor:text;
+    float: left;
+    margin-left: 50px;
+    margin-top: 10px;
+    border-right:1px solid #bbb;
+}
+.g{
+    color: #999;
+    cursor:text;
+    float: left;
+    margin-left: 50px;
+    margin-top: 10px;
+    border-right:1px solid #bbb;
+}
+.h{
+    color: #999;
+    cursor:text;
+    float: left;
+    margin-left: 50px;
+    margin-top: 10px;
+    border-right:1px solid #bbb;
+}
+img{
+    margin-left: 80px;
+}
